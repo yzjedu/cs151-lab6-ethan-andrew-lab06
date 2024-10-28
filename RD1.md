@@ -5,10 +5,10 @@ ENCRYPTED:
 * Kvmoizm Apgg Ivhz: 
 * Nopyzio DY: 
 
-Name: Ethan D’Souza
+Name: Ethan D’Souza 
 Student ID: 1735988
 
-Objective:
+Objective: 
 In this lab, we were tasked with refactoring the ATM program from Lab 5, with the main goals being to organize the code into functions and incorporate proper error checking. We were supposed to learn how to break a larger program into smaller, reusable parts, otherwise known as refactoring code.
 Procedure:
 The steps followed included reviewing the existing ATM code, identifying areas where functions could be applied, and creating a structure for the refactored program. Andrew and I planned out functions for handling menu options, deposits, withdrawals, and viewing the balance. We also mapped out a flowchart, in order to help us plan out our program. We focused on ensuring the program could repeatedly prompt the user until valid input was provided.
