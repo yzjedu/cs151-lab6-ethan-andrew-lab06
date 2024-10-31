@@ -67,5 +67,5 @@
 ### Grade: M
 
 ### Participation Grade: S
-- N for Ethan
+
  - If participation grade is unsatisfactory check the `NO` in the documents sections
